@@ -1,6 +1,6 @@
 import math
 x=int(input("Enter operation to be performed:\n1)Addition\n2)Subtraction\n3)Multiplication\n4)Division\n5)Modulus\n6)Percentage\n7)Logarithm\n8)Sin\n9)Cos\n10)Tan\n11)Cosec\n12)Sec\n13)Cot\n14)Square root\n15)Cube root"))
-if x>=7:
+if x<=7:
     a=int(input("Enter a number"))
     b=int(input("Enter another number"))
     if x==1:
